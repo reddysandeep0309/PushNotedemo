@@ -13,6 +13,7 @@
 		AEB14A4821BC124E00CC8861 /* PushNotedemo.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = AEB14A4621BC124E00CC8861 /* PushNotedemo.xcdatamodeld */; };
 		AEB14A4A21BC125000CC8861 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AEB14A4921BC125000CC8861 /* Assets.xcassets */; };
 		AEB14A4D21BC125000CC8861 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AEB14A4B21BC125000CC8861 /* LaunchScreen.storyboard */; };
+		AEB14A5521BC167700CC8861 /* PushViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEB14A5421BC167700CC8861 /* PushViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		AEB14A4921BC125000CC8861 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AEB14A4C21BC125000CC8861 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AEB14A4E21BC125000CC8861 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AEB14A5421BC167700CC8861 /* PushViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PushViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				AEB14A3F21BC124E00CC8861 /* AppDelegate.swift */,
 				AEB14A4121BC124E00CC8861 /* ViewController.swift */,
+				AEB14A5421BC167700CC8861 /* PushViewController.swift */,
 				AEB14A4321BC124E00CC8861 /* Main.storyboard */,
 				AEB14A4921BC125000CC8861 /* Assets.xcassets */,
 				AEB14A4B21BC125000CC8861 /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				AEB14A4821BC124E00CC8861 /* PushNotedemo.xcdatamodeld in Sources */,
 				AEB14A4221BC124E00CC8861 /* ViewController.swift in Sources */,
+				AEB14A5521BC167700CC8861 /* PushViewController.swift in Sources */,
 				AEB14A4021BC124E00CC8861 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
